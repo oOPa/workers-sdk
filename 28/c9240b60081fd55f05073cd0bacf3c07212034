@@ -1,0 +1,21 @@
+packages/wrangler/src/__tests__/kv/namespace.test.ts
+  s_f52cd8a0076dca::t_0536eeee39ef48 168-193
+packages/wrangler/src/kv/index.ts
+  s_f52cd8a0076dca::t_f1baac9e876535 99-105,114,119-123,127-129,132-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "28c9240b60081fd55f05073cd0bacf3c07212034",
+  "prompts": {},
+  "sessions": {
+    "s_f52cd8a0076dca": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07a079f64ffeoRh5rM5d9viocN",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Enyinna Ogwe <enyinna@cloudflare.com>"
+    }
+  }
+}
