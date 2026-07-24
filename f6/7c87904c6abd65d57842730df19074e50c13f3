@@ -1,0 +1,19 @@
+.changeset/kv-namespace-provision-jurisdiction.md
+  s_92871c1b46dc70::t_4667a80fdc10ad 7,11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f67c87904c6abd65d57842730df19074e50c13f3",
+  "prompts": {},
+  "sessions": {
+    "s_92871c1b46dc70": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06ad3e074ffefcvCI6y7Sp2J9Z",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Enyinna Ogwe <enyinna@cloudflare.com>"
+    }
+  }
+}
