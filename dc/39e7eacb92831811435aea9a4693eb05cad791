@@ -1,0 +1,23 @@
+packages/deploy-helpers/src/deploy/helpers/provision-bindings.ts
+  s_17249b6eac7a38::t_3c4c33fa872d71 579,1361
+packages/wrangler/src/__tests__/helpers/mock-kv.ts
+  s_17249b6eac7a38::t_72023e7b44a2ea 78-79
+packages/wrangler/src/kv/helpers.ts
+  s_17249b6eac7a38::t_c3eee0f5ce91f7 49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dc39e7eacb92831811435aea9a4693eb05cad791",
+  "prompts": {},
+  "sessions": {
+    "s_17249b6eac7a38": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_057ff9ea1ffeYVJnWZpaT3pBk9",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Enyinna Ogwe <enyinna@cloudflare.com>"
+    }
+  }
+}
